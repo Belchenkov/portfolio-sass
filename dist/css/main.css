@@ -79,6 +79,9 @@ input[class^='btn-']:hover {
 .my-4 {
   margin: 4rem 0; }
 
+.w-100 {
+  width: 100%; }
+
 .section-title {
   font-size: 2rem;
   display: block;
@@ -223,8 +226,7 @@ img {
 #about-a .about-info {
   display: grid;
   grid-template-areas: 'bioimage bio bio' 'aw1 aw2 aw3';
-  grid-gap: 1.2rem;
-  margin-bottom: 100px; }
+  grid-gap: 1.2rem; }
 
 #about-a .bio-image {
   grid-area: bioimage; }
@@ -248,6 +250,18 @@ img {
 #about-a .award-3 .fas {
   color: #ffbc00;
   margin: 1rem; }
+
+#about-b .progress {
+  overflow: hidden;
+  height: 20px;
+  background: #ccc;
+  border-radius: 5px;
+  margin-bottom: .6rem; }
+  #about-b .progress div {
+    height: 100%;
+    color: #fff;
+    background: #ffbc00;
+    text-align: center; }
 
 #main-footer {
   background: #333;

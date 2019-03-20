@@ -208,7 +208,6 @@ img {
         'bioimage bio bio'
         'aw1 aw2 aw3';
       grid-gap: 1.2rem;
-      margin-bottom: 100px;
     }
 
     // Grid Area
@@ -239,6 +238,24 @@ img {
     .award-3 .fas {
       color: $main-color;
       margin: 1rem;
+    }
+  }
+
+  // About B
+  &-b {
+    .progress {
+      overflow: hidden;
+      height: 20px;
+      background: $medium-color;
+      border-radius: 5px;
+      margin-bottom: .6rem;
+
+      div {
+        height: 100%;
+        color: #fff;
+        background: $main-color;
+        text-align: center;
+      }
     }
   }
 }
