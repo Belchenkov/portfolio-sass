@@ -2,4 +2,4 @@
 
 ### Create a portfolio web-site on SCSS
 
-Demo: http://185.228.232.41/projects/portfolio-sass/dist
+Demo: http://193.187.174.213/projects/portfolio-sass/dist
