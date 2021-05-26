@@ -2,4 +2,22 @@
 
 ### Create a portfolio web-site on SCSS
 
-Demo: http://193.187.174.213/projects/portfolio-sass/dist
+### [Demo](http://portfolio-sass-ab.surge.sh/)
+[![IMAGE ALT TEXT HERE](./screen.png)](https://nimb.ws/FmeWjQ)
+
+### Get started
+
+```shell script
+git clone
+```
+```shell script
+open index.html
+```
+or
+```shell script
+npm i -g live-server
+```
+```shell script
+live-server
+```
+
